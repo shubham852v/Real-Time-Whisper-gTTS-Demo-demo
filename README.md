@@ -1,6 +1,6 @@
 # 1. Clone the repository
 https://github.com/shubham852v/Real-Time-Whisper-gTTS-Demo-demo
-cd real-time-avatar-demo
+
 
 # 2. Create and activate a virtual environment (venv)
 python -m venv venv
