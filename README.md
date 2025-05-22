@@ -1,5 +1,5 @@
 # 1. Clone the repository
-git clone https://github.com/shubham852v/real-time-avatar-demo.git
+https://github.com/shubham852v/Real-Time-Whisper-gTTS-Demo-demo
 cd real-time-avatar-demo
 
 # 2. Create and activate a virtual environment (venv)
